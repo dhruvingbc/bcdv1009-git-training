@@ -1,1 +1,3 @@
 Hello from Alice
+
+Welcome to git training
