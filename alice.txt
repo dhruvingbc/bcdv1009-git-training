@@ -1,3 +1,5 @@
 Hello from Alice
 
 Welcome to git training
+
+Learn git concepts, not git commands
