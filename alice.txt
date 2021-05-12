@@ -1,6 +1,6 @@
 Hello from Alice
 
-Welcome to git training by Alice
+!!Welcome to git training by Alice!!
 
 Learn git concepts, not git commands
 
