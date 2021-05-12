@@ -4,4 +4,5 @@ Welcome to git training
 
 Learn git concepts, not git commands
 
-1. VCS - distributed v/s centralized
+1   VCS
+1.1 distributed v/s centralized
